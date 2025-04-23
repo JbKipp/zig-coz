@@ -19,7 +19,7 @@ This package includes `coz.h` from the Coz project (https://github.com/plasma-um
 ## Installation
 
 ```shell
-zig fetch --save https://github.com/JbKipp/zig_coz/archive/refs/heads/master.tar.gz
+zig fetch --save https://github.com/JbKipp/zig-coz/archive/refs/heads/master.tar.gz
 ```
 
 ## Usage
